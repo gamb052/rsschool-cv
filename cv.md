@@ -14,12 +14,13 @@ My goal is easy and at the same time difficult. I want to become a high class de
 -Education
 * Georgian Technical University, Bachelor's degree in Information technology (2016-2020)
 * West Saxon University of Applied Sciences of Zwickau(Germany), Learning through an exchange program Erasmus+ in 2019 
-* Georgian Technical University, Master's degree Information technology (2020-Present)
-* Udemy courses(online): Swift, Java, Docker
+* Georgian Technical University, Master's degree Information technology. (2020-Present)
+* Udemy courses(online): Swift, Java, Docker.
 
 -Language
 
 * German
 * Russian
 * Englich (I need English in my daily life because I work for an international company where many foreigners work) 
- 
+
+********************************************************
