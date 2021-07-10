@@ -1,7 +1,7 @@
 ***CV***
 
 *****************************************
--Contact information
+-Contact Information
 
 ### Zurab Gambashidze
 ### Email: gambashidzezura17@gmail.com 
