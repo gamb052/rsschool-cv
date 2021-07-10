@@ -1,1 +1,1 @@
-gamb052.github.io/rsschool-cv/cv
+https://gamb052.github.io/rsschool-cv/cv
